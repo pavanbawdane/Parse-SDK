@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<resources>
+    <string name="parse_app_id">e18rLzfwG1PpBfz03HcPsrlAociWAoSXqxPBzHZi</string>
+    <string name="parse_client_key">0GwYGrtMGcDa5SknBrd1qIXxXT5R0cG5xXtsA6xy</string>
+
+    <string name="app_name">Android Login</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="action_settings">Logout</string>
+    <string name="title_activity_signup_or_login">SignupOrLogin</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="title_activity_dispatch">DispatchActivity</string>
+</resources>
